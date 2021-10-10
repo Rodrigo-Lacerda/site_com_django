@@ -19,5 +19,7 @@ from site_statico import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.home),
+    path('home/', views.home),
+    path('sobre/', views.sobre),
+    path('contato/', views.contato),
 ]
