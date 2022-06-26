@@ -1,3 +1,2 @@
-# Site_Statico_Django
-Um site statico feito com Python e Django
-Projeto criado para Estudar o Framework Django do Python 
+# Um Site feito com Python e Django framework.
+Site criado para mostrar um pouco do que eu sei fazer em python e django. 
